@@ -13,6 +13,6 @@ php artisan migrate
 ```
 
 ## 개인공부용
-Laravel11 공부
-Balde Template 활용
-Query Builder ORM 활용
+- Laravel11 공부
+- Balde Template 활용
+- Query Builder ORM 활용
